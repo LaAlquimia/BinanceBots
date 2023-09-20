@@ -7,9 +7,17 @@
 ## Libraries     
     - pandas
     - numpy 
-    - python binance 
+    - python-binance 
 
 # installation 
-    $ pip install -r requeriments.txr
+    pip install -r requeriments.txr
+
+
+
+# Run
+
+    # whit env activated 
+    python bot.py
+
 
 ## Youtube Videos explaining 
